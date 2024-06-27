@@ -28,10 +28,13 @@ Regional Breakdown: EMEA is the leading sales region, accounting for half of tot
 
 Seasonality: Sales peak in November, requiring increased stockpiling beforehand.
 Deal Size Correlation: There's a positive correlation between deal size and overall sales.
+
+
 Further Exploration
 
 Profit Analysis: If data on manufacturing cost is available, we can calculate profit margins and conduct profit-related analysis.
 Targeted Marketing: By analyzing customer demographics and seasonal trends, we can tailor marketing efforts to increase sales in underperforming regions.
+
 Recommendations
 
 Product Diversification: Reduce reliance on Classic and Vintage cars by promoting other product lines.
